@@ -8,7 +8,7 @@
       ****************************************************************
       * PROGRAM:  SAM2
       *
-      * AUTHOR :  Coug Ctout
+      * AUTHOR :  Doug Pout
       *
       * SUBROUTINE TO PROCESS "UPDATE" TRANSACTIONS AGAINST CUST RECS
       *****************************************************************
