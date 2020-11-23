@@ -214,7 +214,9 @@
        000-MAIN.
            ACCEPT CURRENT-DATE FROM DATE.
            ACCEPT CURRENT-TIME FROM TIME.
-           ACCEPT WORK-NUM.
+           ACCEPT WORK-VARIABLES.
+           ACCEPT WS-RAGHU.
+      
            DISPLAY 'SAM1 STARTED DATE = ' CURRENT-MONTH '/'
                   CURRENT-DAY '/' CURRENT-YEAR  '  (mm/dd/yy)'.
            DISPLAY '             TIME = ' CURRENT-HOUR ':'
