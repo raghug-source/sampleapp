@@ -216,6 +216,7 @@
            ACCEPT CURRENT-TIME FROM TIME.
            ACCEPT WORK-VARIABLES.
            ACCEPT WS-RAGHU.
+           ACCEPT WS-RAMA.
       
            DISPLAY 'SAM1 STARTED DATE = ' CURRENT-MONTH '/'
                   CURRENT-DAY '/' CURRENT-YEAR  '  (mm/dd/yy)'.
