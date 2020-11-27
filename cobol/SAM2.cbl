@@ -44,7 +44,7 @@
 
        COPY CUSTCOPY REPLACING ==:TAG:== BY ==CUST==.
 
-       COPY TRANREC.
+       COPY FTRANREC.
 
        01  TRAN-OK                         PIC X.
        01  TRAN-MSG                        PIC X(50).

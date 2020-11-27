@@ -70,7 +70,7 @@
 
        FD  TRANSACTION-FILE
            RECORDING MODE IS F.
-       COPY TRANREC.
+       COPY FTRANREC.
 
        FD  REPORT-FILE
            RECORDING MODE IS F.
