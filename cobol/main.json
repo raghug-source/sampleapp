@@ -1,0 +1,7 @@
+ {
+     "main": {
+         "obj": "main",
+         "copy": "['stdcpy','stdcpy']",
+         "load": "main"
+     }
+ }
