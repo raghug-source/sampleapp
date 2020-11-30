@@ -14,7 +14,7 @@
       * TO A SORTED SEQUENTIAL CUSTOMER FILE
       *
       * A GOOD CASE FOR DEBUGGING LAB - INDEED
-      *
+      * hello there
       * CAN BE MADE TO ABEND WITH BAD INPUT DATA FOR FAULT ANALYSIS LAB
       *****************************************************************
       *
